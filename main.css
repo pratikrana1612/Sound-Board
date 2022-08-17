@@ -8,7 +8,7 @@ body{
     height:100vh;
     width:100vw;
     background-color:rgb(161, 100, 223);
-    overflow: hidden;
+    overflow-x: hidden;
     display:flex;
     align-items: center;
     justify-content: center;
@@ -21,6 +21,7 @@ body{
     width:100vw;
     flex-wrap: wrap;
     align-content: space-between;
+    overflow-x: hidden;
 }
 button{
     background-color: rebeccapurple;
