@@ -8,7 +8,7 @@ body{
     height:100vh;
     width:100vw;
     background-color:rgb(161, 100, 223);
-    overflow-x: hidden;
+    overflow:hidden;
     display:flex;
     align-items: center;
     justify-content: center;
